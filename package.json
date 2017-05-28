@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "d3": "^4.9.1",
+>>>>>>> 389af4e8e04b61b84da5485368b7fdb83d8c3d23
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
@@ -15,4 +19,8 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 389af4e8e04b61b84da5485368b7fdb83d8c3d23

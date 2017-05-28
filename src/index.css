@@ -1,5 +1,20 @@
+<<<<<<< HEAD
+=======
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+>>>>>>> 389af4e8e04b61b84da5485368b7fdb83d8c3d23
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
 }
+<<<<<<< HEAD
+=======
+
+#root {
+  height: 100%;
+}
+>>>>>>> 389af4e8e04b61b84da5485368b7fdb83d8c3d23
